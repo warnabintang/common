@@ -1,0 +1,2 @@
+# common
+privacy policy
